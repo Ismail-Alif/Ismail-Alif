@@ -40,4 +40,7 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building rel
 
 ---
 
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
+
+
 Thanks for stopping by! Feel free to check out my projects or get in touch 😊
