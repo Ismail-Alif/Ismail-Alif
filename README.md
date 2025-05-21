@@ -1,9 +1,5 @@
-# 👋 Hello, my name is Ismal Alif.
+# 👋 Hi, I'm Ismal Alif.
 
-Nice to meet you!
-
-
----
 
 🚀 Full-Stack Developer | Skilled in JavaScript, TypeScript, React, Next.js, Node.js | AI Enthusiast | Open Source Contributor
 
