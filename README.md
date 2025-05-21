@@ -1,6 +1,11 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hello, my name is Ismal Alif.
 
-Welcome to my GitHub profile! I'm a passionate developer focused on building reliable and scalable software with a strong emphasis on clean architecture and practical problem-solving.
+Nice to meet you!
+
+
+---
+
+🚀 Full-Stack Developer | Skilled in JavaScript, TypeScript, React, Next.js, Node.js | AI Enthusiast | Open Source Contributor
 
 ---
 
@@ -13,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building rel
 
 ---
 
-## 🚀 Projects
+<!-- ## 🚀 Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
@@ -21,16 +26,8 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building rel
 | [Portfolio Website](https://yourportfolio.com) | Personal portfolio site with project showcases and contact form. | HTML, CSS, JS |
 | [API Integrator](https://github.com/yourusername/api-integrator) | Script to interact with various third-party APIs for automation. | Node.js, Axios |
 
----
+--- -->
 
-## 📫 Contact Me
-
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
-- 📧 Email: [youremail@example.com](mailto:youremail@example.com)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 💼 LinkedIn: [yourname](https://linkedin.com/in/yourname)
-
----
 
 ## 📈 GitHub Stats
 
